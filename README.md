@@ -2,3 +2,6 @@
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
 - [ALVI YUNIAR] - [2010631170050]
+- [Adrian Ramadhani] - [2010631170135]
+- [Ali Dongan Harahap] - [2010631170045]
+- [ANISAH] - [2010631170053]
