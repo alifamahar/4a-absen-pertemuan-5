@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 5
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- Anisa Fitrianida Lutfiajati Pradhyani - 2010631170003
 - Anisa Nur Hasanah - 2010631170052
 - [Jovanka Sandra Nathalie Silalahi] - [2010631170133]
 - Altolyto Sitanggang - 2010631170049
