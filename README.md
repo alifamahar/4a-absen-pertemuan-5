@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 5
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- Altolyto Sitanggang - 2010631170049
 - Anandito Rafi Putra - 2010631170137
 - [Almira Zahra] - [2010631170048]
 - Asyifa Maulana - 2010631170004
